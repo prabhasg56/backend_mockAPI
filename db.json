@@ -1,0 +1,21 @@
+{
+    "products": [
+      {
+        "brandName": "Puma",
+        "image": "Hyz",
+        "description": "Febn",
+        "price": "2455",
+        "size": "12",
+        "id": 2
+      },
+      {
+        "brandName": "Puma",
+        "image": "Hh",
+        "description": "Dhhb",
+        "price": "24",
+        "size": "34",
+        "id": 3
+      }
+    ],
+    "cart": []
+  }
